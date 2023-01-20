@@ -15,6 +15,7 @@ def input_schedule():
         [sg.Text("Task", size=(15, 1)), sg.InputText(key="task")],
         [sg.Text("Name", size=(15, 1)), sg.InputText(key="name")],
         [sg.Text("test")]
+        [sg.Text("test")]
         [sg.Button("Submit")],
 
     ]
